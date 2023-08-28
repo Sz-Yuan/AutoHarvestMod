@@ -7,7 +7,7 @@ You just need to walk around, and all the mature crops will be harvested and re-
 *\*Client Only\**
 
 ### Require
-1. Minecraft 1.14/1.15/1.16
+1. Minecraft 1.20.1
 2. [Fabric](https://fabricmc.net/wiki/install)
 3. [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 
