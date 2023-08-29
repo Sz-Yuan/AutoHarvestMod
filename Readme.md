@@ -1,4 +1,4 @@
-#### Click on the image to go to English
+#### Click the image to English
 <a href=Readme_en.md><img src=".github/icon/USA.png"></a>
 ### Minecraft 1.20.1版本的自动收割模组
 这个模块为您提供了收获作物的最简单方法。
