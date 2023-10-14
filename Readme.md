@@ -1,13 +1,13 @@
 #### Click the image to English
 <a href=Readme_en.md><img src=".github/icon/USA.png"></a>
-### Minecraft 1.20.1版本的自动收割模组
+### Minecraft 1.20.2版本的自动收割模组
 这个模块为您提供了收获作物的最简单方法。
 你只需要四处走动，所有成熟的作物都将被收获并重新种植。
 
 *这是个客户端模组*
 
 ### 需求
-1. Minecraft 1.20.1
+1. Minecraft 1.20.2
 2. [Fabric](https://fabricmc.net/wiki/install)
 3. [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 

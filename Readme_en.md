@@ -1,14 +1,14 @@
 #### 点击图片转到中文
 <a href=Readme.md><img src=".github/icon/CHINA.png"></a>
 
-### Automatic Harvest Mod for Minecraft 1.20.1.
+### Automatic Harvest Mod for Minecraft 1.20.2.
 This mod give you the easiest way to harvest crops.
 You just need to walk around, and all the mature crops will be harvested and re-planted.
 
 *Client Only*
 
 ### Require
-1. Minecraft 1.20.1
+1. Minecraft 1.20.2
 2. [Fabric](https://fabricmc.net/wiki/install)
 3. [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 
@@ -44,4 +44,4 @@ Supported Crops:
 This mod is publish under GPLv3.
 You can find details in the `LICENSE` file.
 
-Clone from [flier268](https://github.com/flier268/AutoHarvestMod) and update it to 1.20.1
+Clone from [flier268](https://github.com/flier268/AutoHarvestMod) and update it to 1.20.2
