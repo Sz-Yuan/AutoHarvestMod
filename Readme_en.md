@@ -5,7 +5,7 @@
 This mod give you the easiest way to harvest crops.
 You just need to walk around, and all the mature crops will be harvested and re-planted.
 
-*\*Client Only\**
+<u>Client Only</u>
 
 ### Require
 1. Minecraft 1.20.1

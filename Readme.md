@@ -4,7 +4,7 @@
 这个模块为您提供了收获作物的最简单方法。
 你只需要四处走动，所有成熟的作物都将被收获并重新种植。
 
-*\*这是个客户端模组\**
+<u>这是个客户端模组</u>
 
 ### 需求
 1. Minecraft 1.20.1
@@ -43,4 +43,4 @@
 此mod在GPLv3下发布。
 您可以在`LICENSE`文件中找到详細信息。
 
-复制自[flier268](https://github.com/flier268/AutoHarvestMod)并由本人更新到1.20.1
+复制自[flier268](https://github.com/flier268/AutoHarvestMod)并由本人更新到1.20.2

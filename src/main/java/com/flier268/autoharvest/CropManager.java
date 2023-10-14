@@ -96,12 +96,13 @@ public class CropManager {
                     put(Blocks.WARPED_FUNGUS, Items.WARPED_FUNGUS);
                     put(Blocks.KELP, Items.KELP);
                     //1.20.1
-                    put(Blocks.TORCHFLOWER_CROP,Items.TORCHFLOWER_SEEDS);
+                    put(Blocks.TORCHFLOWER_CROP, Items.TORCHFLOWER_SEEDS);
                 }
             });
 
     public static final Multimap<Item, Class<? extends AnimalEntity>> FEED_MAP;
     public static final Multimap<Item, Class<? extends AnimalEntity>> SHEAR_MAP;
+
     static {
         FEED_MAP = ArrayListMultimap.create();
         FEED_MAP.put(Items.GOLDEN_CARROT, HorseEntity.class);
@@ -164,6 +165,8 @@ public class CropManager {
 
         SHEAR_MAP = ArrayListMultimap.create();
         SHEAR_MAP.put(Items.SHEARS, SheepEntity.class);
+        //1.20.2
+        FEED_MAP.put(Items.TORCHFLOWER_SEEDS, SnifferEntity.class);
     }
 
     public static boolean isWeedBlock(World w, BlockPos pos) {

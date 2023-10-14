@@ -18,5 +18,7 @@
   "notify.prefix":"[自动收割]",
   "notify.tick_error":"发生错误",
   "config.flower_is_seed": "花会被除草模式清除",
-  "config.effect_radius": "作用半径"
+  "config.effect_radius": "作用半径",
+  "config.tick_skip": "跳过n刻",
+  "config.keep_fishing_rod_alive": "不破坏鱼竿"
 }

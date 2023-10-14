@@ -410,7 +410,7 @@ public class TickListener {
                     BlockState blockState = w.getBlockState(pos);
                     Block block = blockState.getBlock();
                     if (block instanceof CropBlock) {
-                        if (((CropBlock) block).isFertilizable(w,pos,blockState,w.isClient)) {
+                        if (((CropBlock) block).isFertilizable(w,pos,blockState)) {
                             BlockHitResult blockHitResult = new BlockHitResult(
                                     new Vec3d(X + deltaX + 0.5, Y + deltaY + 0.5, Z + deltaZ + 0.5), Direction.UP, pos, false);
                             assert handItem != null;
